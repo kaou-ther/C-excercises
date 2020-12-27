@@ -18,6 +18,5 @@ for (i=0; i<N; i++)
   Tab[i] = t[N-1-i];
   printf("Reversed Tab[%d] = %d\n", i+1, Tab[i]);
 }
-
   return 0;
 }
